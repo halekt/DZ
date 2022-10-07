@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_009\obj\Debug\net6.0\Exercise_009.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_009\obj\Debug\net6.0\Exercise_009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_009\obj\Debug\net6.0\Exercise_009.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_009\obj\Debug\net6.0\Exercise_009.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_009\obj\Debug\net6.0\Exercise_009.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_009\bin\Debug\net6.0\Exercise_009.exe
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_009\bin\Debug\net6.0\Exercise_009.deps.json
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_009\bin\Debug\net6.0\Exercise_009.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_009\bin\Debug\net6.0\Exercise_009.dll
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_009\bin\Debug\net6.0\Exercise_009.pdb
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_009\obj\Debug\net6.0\Exercise_009.dll
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_009\obj\Debug\net6.0\refint\Exercise_009.dll
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_009\obj\Debug\net6.0\Exercise_009.pdb
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_009\obj\Debug\net6.0\Exercise_009.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_009\obj\Debug\net6.0\ref\Exercise_009.dll
