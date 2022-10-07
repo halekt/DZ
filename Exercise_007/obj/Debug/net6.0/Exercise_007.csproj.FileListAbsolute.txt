@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_007\bin\Debug\net6.0\Exercise_007.exe
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_007\bin\Debug\net6.0\Exercise_007.deps.json
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_007\bin\Debug\net6.0\Exercise_007.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_007\bin\Debug\net6.0\Exercise_007.dll
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_007\bin\Debug\net6.0\Exercise_007.pdb
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_007\obj\Debug\net6.0\Exercise_007.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_007\obj\Debug\net6.0\Exercise_007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_007\obj\Debug\net6.0\Exercise_007.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_007\obj\Debug\net6.0\Exercise_007.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_007\obj\Debug\net6.0\Exercise_007.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_007\obj\Debug\net6.0\Exercise_007.dll
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_007\obj\Debug\net6.0\refint\Exercise_007.dll
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_007\obj\Debug\net6.0\Exercise_007.pdb
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_007\obj\Debug\net6.0\Exercise_007.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Seminar C#_locally\Seminar_C-\Exercise_007\obj\Debug\net6.0\ref\Exercise_007.dll
